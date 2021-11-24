@@ -4,7 +4,7 @@ A mockup of a banking application for a fictitious bank.
 
 Authors:
 
-Kamil Adaś
+Kamil Adaś - kamiladas
 
 Przemysław Cedro - SpontanCombust
 
