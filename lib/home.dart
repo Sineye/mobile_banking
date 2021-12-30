@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
               child: OutlinedButton(
                   style: ElevatedButton.styleFrom(shape: CircleBorder(), minimumSize: Size(200, 200)),
                   onPressed: () { Navigator.pushNamed(context, '/password_login_screen');},
-                  child: Text('Password Login',textAlign: TextAlign.center)
+                  child: Text('PIN Login',textAlign: TextAlign.center)
     ),
             )]
     ));
